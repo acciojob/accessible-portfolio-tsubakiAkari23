@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+* {
+    box-sizing: border-box;
+}
+
+nav {
+    /* border: 1px solid red; */
+    padding: 1rem 0;
+}
+nav ul {
+    /* border: 1px solid red; */
+    margin: 0;
+    padding: 0;
+}
+nav ul a {
+    text-decoration: none;
+    color: black;
+    /* border: 1px solid red; */
+    padding: 1rem;
+}
